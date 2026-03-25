@@ -423,7 +423,7 @@ var main = (function($) { var _ = {
 
  							// Set background stuff.
 	 							s.$slideImage
-		 							.css('background-image', '')
+		 							.css('background-image', 'none')
 		 							.css('background-position', ($thumbnail.data('position') || 'center'));
 
 						// Caption.
@@ -437,11 +437,11 @@ var main = (function($) { var _ = {
 						if (_.settings.preload) {
 
 							// Force image to download.
-								var $img = $('<img src="' + s.url + '" />');
+								var $img = $('<img src="' + encodeURI(s.url) + '" />');
 
 							// Set slide's background image to it.
 								s.$slideImage
-									.css('background-image', 'url(' + s.url + ')');
+									.css('background-image', 'url("' + s.url + '")');
 
 							// Mark slide as loaded.
 								s.$slide.addClass('loaded');
@@ -556,12 +556,12 @@ var main = (function($) { var _ = {
 									newSlide.$slide.addClass('loading');
 
 								// Wait for it to load.
-									$('<img src="' + newSlide.url + '" />').on('load', function() {
+									$('<img src="' + encodeURI(newSlide.url) + '" />').on('load', function() {
 									//window.setTimeout(function() {
 
 										// Set background image.
 											newSlide.$slideImage
-												.css('background-image', 'url(' + newSlide.url + ')');
+												.css('background-image', 'url("' + newSlide.url + '")');
 
 										// Mark as loaded.
 											newSlide.loaded = true;
@@ -576,6 +576,21 @@ var main = (function($) { var _ = {
 											}, 100);
 
 									//}, 1000);
+									})
+									.on('error', function() {
+
+										// Mark as loaded to prevent retries.
+											newSlide.loaded = true;
+											newSlide.$slide.removeClass('loading');
+
+										// Mark as active so carousel continues.
+											newSlide.$slide.addClass('active');
+
+										// Unlock so user can navigate.
+											window.setTimeout(function() {
+												_.locked = false;
+											}, 100);
+
 									});
 
 							}, 100);
