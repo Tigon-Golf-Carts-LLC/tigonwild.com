@@ -7,7 +7,7 @@ var main = (function($) { var _ = {
 	settings: {
 
 		// Preload all images.
-			preload: false,
+			preload: true,
 
 		// Slide duration (must match "duration.slide" in _vars.scss).
 			slideDuration: 500,
@@ -446,7 +446,7 @@ var main = (function($) { var _ = {
 						if (_.settings.preload) {
 
 							// Force image to download.
-								var $img = $('<img src="' + encodeURI(s.url) + '" />');
+								var $img = $('<img src="' + s.url + '" />');
 
 							// Set slide's background image to it.
 								s.$slideImage
@@ -577,7 +577,7 @@ var main = (function($) { var _ = {
 									newSlide.$slide.addClass('loading');
 
 								// Wait for it to load.
-									$('<img src="' + encodeURI(newSlide.url) + '" />').on('load', function() {
+									$('<img />').on('load', function() {
 									//window.setTimeout(function() {
 
 										// Set background image.
@@ -612,7 +612,8 @@ var main = (function($) { var _ = {
 												_.locked = false;
 											}, 100);
 
-									});
+									})
+									.attr('src', newSlide.url);
 
 							}, 100);
 
