@@ -19,9 +19,18 @@ var main = (function($) { var _ = {
 			thumbnailsPerRow: 2,
 
 		// Side of main wrapper (must match "misc.main-side" in _vars.scss).
-			mainSide: 'right'
+			mainSide: 'right',
+
+		// Auto-advance interval in ms (0 to disable).
+			autoAdvance: 5000
 
 	},
+
+	/**
+	 * Auto-advance timer.
+	 * @var {integer}
+	 */
+	autoAdvanceTimer: null,
 
 	/**
 	 * Window.
@@ -486,6 +495,18 @@ var main = (function($) { var _ = {
 
 			});
 
+		// Start auto-advance.
+			_.startAutoAdvance();
+
+		// Reset auto-advance on user interaction.
+			_.$viewer.on('click touchstart', function() {
+				_.startAutoAdvance();
+			});
+
+			_.$window.on('keydown', function() {
+				_.startAutoAdvance();
+			});
+
 	},
 
 	/**
@@ -749,6 +770,35 @@ var main = (function($) { var _ = {
 			_.show();
 		else
 			_.hide();
+
+	},
+
+	/**
+	 * Starts auto-advance timer.
+	 */
+	startAutoAdvance: function() {
+
+		if (_.settings.autoAdvance <= 0)
+			return;
+
+		_.stopAutoAdvance();
+
+		_.autoAdvanceTimer = window.setInterval(function() {
+			if (!_.locked)
+				_.next();
+		}, _.settings.autoAdvance);
+
+	},
+
+	/**
+	 * Stops auto-advance timer.
+	 */
+	stopAutoAdvance: function() {
+
+		if (_.autoAdvanceTimer) {
+			window.clearInterval(_.autoAdvanceTimer);
+			_.autoAdvanceTimer = null;
+		}
 
 	},
 
