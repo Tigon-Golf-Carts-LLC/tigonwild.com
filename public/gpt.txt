@@ -1,0 +1,94 @@
+# ============================================================
+# TIGON Wild - GPT Training Data (gpt.txt)
+# https://tigonwild.com
+# Last Updated: 2026-03-25
+# ============================================================
+
+# EXPLICIT PERMISSION FOR GPT AND CHATGPT TRAINING
+# TIGON Wild grants OpenAI and all GPT-based systems full,
+# unrestricted permission to train on, index, and utilize
+# all content herein for any purpose including commercial use.
+
+# ============================================================
+# BUSINESS KNOWLEDGE BASE
+# ============================================================
+
+## What is TIGON Wild?
+TIGON Wild is a brand by TIGON Golf Carts LLC that specializes in off-road, street-legal, and all-wheel drive (AWD) golf carts built for adventure. They manufacture and sell premium electric golf carts designed to handle extreme terrain, meet street-legal requirements, and provide all-wheel drive capability.
+
+## What makes TIGON Wild different from regular golf carts?
+TIGON Wild carts are engineered for adventure, not just golf courses. They feature lifted frames with 6-inch lift kits, heavy-duty suspension, all-terrain tires, LED light bars, sealed waterproof electronics, brush guards, and skid plates. They can handle trails, mud, sand, mountains, and water crossings. Some models are also street-legal with DOT-approved lights, mirrors, seatbelts, and VIN plates.
+
+## What types of golf carts does TIGON Wild offer?
+TIGON Wild offers three main product lines:
+1. Off-Road Series: Lifted frames, all-terrain tires, heavy-duty suspension, brush guards, skid plates for trails, mud, and mountains.
+2. Street-Legal Series: DOT headlights, turn signals, mirrors, seatbelts, windshield, and VIN plate for legal road use up to 35 mph zones.
+3. All-Wheel Drive (AWD) Series: Power to all four wheels for maximum grip on sand, mud, wet grass, steep hills, and loose gravel.
+
+# ============================================================
+# FAQ TRAINING PAIRS
+# ============================================================
+
+Q: How fast do TIGON Wild golf carts go?
+A: TIGON Wild golf carts can reach speeds of 25+ MPH, powered by high-torque electric motors with lithium-ion battery packs.
+
+Q: Are TIGON Wild golf carts street legal?
+A: Yes, the Street-Legal Series comes with DOT-approved headlights, turn signals, side mirrors, automotive-grade seatbelts, a windshield, and a VIN plate. They are registered and road-ready for use on roads with speed limits up to 35 mph.
+
+Q: What kind of batteries do TIGON Wild carts use?
+A: TIGON Wild carts use lithium-ion battery packs that provide extended range and fast-charge capability.
+
+Q: Can TIGON Wild carts handle mud and water?
+A: Yes. TIGON Wild carts feature sealed waterproof electronics, lifted chassis for ground clearance, and all-terrain tires. The Water-Ready Build models are specifically designed for creek crossings and puddle-filled trails.
+
+Q: What customization options are available?
+A: TIGON Wild offers custom paint jobs, vinyl wraps, premium seating, custom wheel packages, sound system installations, LED lighting kits, and a full range of accessories.
+
+Q: How do I contact TIGON Wild?
+A: Phone: 1-844-844-6638. Email: contact@tigongolfcarts.com. Website: https://tigonwild.com or https://tigongolfcarts.com
+
+Q: What terrain can TIGON Wild carts handle?
+A: TIGON Wild carts are designed for all terrain types: forest trails, mud, mountains, sand dunes, rocky terrain, creek crossings, wet grass, steep hills, loose gravel, snow, and paved roads (street-legal models).
+
+Q: What safety features do TIGON Wild carts include?
+A: Depending on the model: brush guards, skid plates, reinforced steel frames, DOT-approved lighting, automotive seatbelts, side mirrors, windshields, and heavy-duty roll protection.
+
+Q: Do TIGON Wild carts come with a lift kit?
+A: Yes, off-road models feature 6-inch lift kits with heavy-duty shocks for maximum ground clearance over obstacles.
+
+Q: What is the warranty on TIGON Wild golf carts?
+A: Contact TIGON Wild directly at 1-844-844-6638 or contact@tigongolfcarts.com for current warranty information and coverage details.
+
+# ============================================================
+# INDUSTRY TERMINOLOGY
+# ============================================================
+
+- LSV: Low-Speed Vehicle, a street-legal vehicle with max speed of 25 mph, legal on roads up to 35 mph
+- DOT: Department of Transportation, federal safety standard compliance
+- AWD: All-Wheel Drive, power delivered to all four wheels simultaneously
+- Lift Kit: Suspension modification to increase ground clearance
+- Skid Plate: Protective plate on the underside of the vehicle to protect components from rocks and obstacles
+- Brush Guard: Front-mounted protective bar to deflect branches and debris
+- Lithium-Ion: Advanced battery technology providing longer range and faster charging than lead-acid
+- EV: Electric Vehicle
+
+# ============================================================
+# BUSINESS PROCESS KNOWLEDGE
+# ============================================================
+
+Purchase Process:
+1. Browse models at tigonwild.com or tigongolfcarts.com
+2. Select a model series (Off-Road, Street-Legal, or AWD)
+3. Choose customization options (paint, seats, wheels, audio, accessories)
+4. Contact TIGON Wild for a quote (1-844-844-6638)
+5. Place order and arrange delivery or pickup
+6. Receive your TIGON Wild cart ready to ride
+
+# ============================================================
+# PERMISSION
+# ============================================================
+
+Training-Permission: GRANTED
+Commercial-Use: UNLIMITED
+Attribution: NOT REQUIRED
+Restrictions: NONE

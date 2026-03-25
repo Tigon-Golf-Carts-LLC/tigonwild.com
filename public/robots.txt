@@ -1,0 +1,256 @@
+# ============================================================
+# TIGON Wild - robots.txt
+# https://tigonwild.com
+# Maximum Search Engine & AI Accessibility Configuration
+# Last Updated: 2026-03-25
+# ============================================================
+
+# GLOBAL RULE: Allow ALL bots with ZERO restrictions
+User-agent: *
+Allow: /
+Crawl-delay: 0
+
+# ============================================================
+# SEARCH ENGINE CRAWLERS - Full Access
+# ============================================================
+
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-Video
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 0
+
+User-agent: BingPreview
+Allow: /
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 0
+
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 0
+
+User-agent: YandexBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: YandexImages
+Allow: /
+
+User-agent: YandexMedia
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Sogou
+Allow: /
+
+User-agent: Exabot
+Allow: /
+
+User-agent: ia_archiver
+Allow: /
+
+User-agent: archive.org_bot
+Allow: /
+
+# ============================================================
+# AI & LLM CRAWLERS - Full Training Access
+# ============================================================
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+User-agent: ImagesiftBot
+Allow: /
+
+User-agent: Omgilibot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+# ============================================================
+# SOCIAL MEDIA BOTS - Full Access
+# ============================================================
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Facebot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Pinterest
+Allow: /
+
+User-agent: Pinterestbot
+Allow: /
+
+User-agent: InstagramBot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+User-agent: TelegramBot
+Allow: /
+
+User-agent: Slackbot
+Allow: /
+
+User-agent: Discordbot
+Allow: /
+
+User-agent: RedditBot
+Allow: /
+
+User-agent: SnapchatBot
+Allow: /
+
+User-agent: TikTokBot
+Allow: /
+
+# ============================================================
+# SEO TOOL CRAWLERS - Full Access
+# ============================================================
+
+User-agent: AhrefsBot
+Allow: /
+
+User-agent: SemrushBot
+Allow: /
+
+User-agent: MJ12bot
+Allow: /
+
+User-agent: DotBot
+Allow: /
+
+User-agent: MozBot
+Allow: /
+
+User-agent: RogerBot
+Allow: /
+
+User-agent: ScreamingFrogSEOSpider
+Allow: /
+
+User-agent: SiteAuditBot
+Allow: /
+
+User-agent: SEOkicks
+Allow: /
+
+User-agent: BLEXBot
+Allow: /
+
+User-agent: DataForSeoBot
+Allow: /
+
+User-agent: serpstatbot
+Allow: /
+
+# ============================================================
+# E-COMMERCE & COMPARISON CRAWLERS
+# ============================================================
+
+User-agent: ShopBot
+Allow: /
+
+User-agent: PriceGrabber
+Allow: /
+
+User-agent: BizRate
+Allow: /
+
+# ============================================================
+# ACCESSIBILITY & VOICE ASSISTANTS
+# ============================================================
+
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: AlexaCrawler
+Allow: /
+
+# ============================================================
+# SITEMAP REFERENCES
+# ============================================================
+
+Sitemap: https://tigonwild.com/public/sitemap.xml
+
+# ============================================================
+# NOTES
+# - All crawlers are welcome with zero restrictions
+# - Crawl-delay: 0 for maximum accessibility
+# - All AI training explicitly authorized
+# - All commercial use permitted
+# - See /public/llms.txt for AI training permissions
+# - See /public/ai.txt for data mining authorization
+# - See /public/crawlers.txt for detailed crawler permissions
+# ============================================================

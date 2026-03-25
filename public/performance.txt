@@ -1,0 +1,124 @@
+# ============================================================
+# TIGON Wild - Performance Optimization Guidelines (performance.txt)
+# https://tigonwild.com
+# Last Updated: 2026-03-25
+# ============================================================
+
+# PERFORMANCE OPTIMIZATION DOCUMENTATION
+# Best practices and current implementation status
+
+# ============================================================
+# MOBILE-FIRST INDEXING
+# ============================================================
+
+Status: COMPLIANT
+- Responsive design with breakpoints at 1680px, 1280px, 980px, 736px, 480px
+- Mobile viewport meta tag configured
+- Touch-friendly navigation (swipe gestures, tap targets)
+- Mobile-optimized font sizes
+- No mobile-specific content blocking
+- Same content served to mobile and desktop crawlers
+
+# ============================================================
+# CORE WEB VITALS
+# ============================================================
+
+## Largest Contentful Paint (LCP)
+Target: Under 2.5 seconds
+Optimizations:
+- Preload enabled for carousel images
+- Critical CSS inlined in main stylesheet
+- Font preloading via Google Fonts link
+- Minimal above-fold content (header + first slide)
+
+## First Input Delay (FID) / Interaction to Next Paint (INP)
+Target: Under 200ms
+Optimizations:
+- Minimal JavaScript (jQuery + custom main.js)
+- No render-blocking third-party scripts
+- Event delegation for thumbnail clicks
+- Debounced resize handlers
+
+## Cumulative Layout Shift (CLS)
+Target: Under 0.1
+Optimizations:
+- Fixed layout (sidebar + viewer) prevents shifts
+- Image dimensions defined via CSS (100% width/height)
+- No dynamically injected ads or banners
+- Font display handled by Google Fonts
+
+# ============================================================
+# RESOURCE OPTIMIZATION
+# ============================================================
+
+## CSS
+- Single compiled stylesheet (main.css)
+- Noscript fallback stylesheet
+- Critical styles for above-fold content
+- Efficient selectors and minimal specificity
+
+## JavaScript
+- jQuery (minified)
+- Browser detection (minified)
+- Breakpoints handler (minified)
+- Custom main.js (carousel logic)
+- Scripts loaded at end of body (non-blocking)
+
+## Images
+- JPEG format for photographs (good compression/quality ratio)
+- SVG for icons and UI elements
+- Thumbnail images for sidebar (small file size)
+- Full-size images loaded on demand (preload setting)
+- Favicon in multiple sizes for different devices
+
+## Fonts
+- Google Fonts: Roboto (400, 700 weights only)
+- Font Awesome 5 for icons
+- System font fallbacks: Helvetica, sans-serif
+
+# ============================================================
+# CACHING STRATEGY
+# ============================================================
+
+Recommended Cache Headers:
+- HTML: Cache-Control: public, max-age=3600 (1 hour)
+- CSS/JS: Cache-Control: public, max-age=31536000 (1 year, versioned)
+- Images: Cache-Control: public, max-age=2592000 (30 days)
+- Fonts: Cache-Control: public, max-age=31536000 (1 year)
+- Favicon: Cache-Control: public, max-age=2592000 (30 days)
+
+# ============================================================
+# CDN RECOMMENDATIONS
+# ============================================================
+
+- Use CDN for static assets (images, CSS, JS)
+- Enable GZIP/Brotli compression
+- Configure HTTP/2 or HTTP/3
+- Set up edge caching for global performance
+- Consider Cloudflare, AWS CloudFront, or similar
+
+# ============================================================
+# AMP COMPATIBILITY
+# ============================================================
+
+Status: Not currently implemented
+Notes: The interactive carousel requires JavaScript that is not
+AMP-compatible. Consider a separate AMP version for search
+result display if needed.
+
+# ============================================================
+# MONITORING RECOMMENDATIONS
+# ============================================================
+
+Tools:
+- Google Search Console (indexing, performance, errors)
+- Google PageSpeed Insights (Core Web Vitals)
+- GTmetrix (detailed performance analysis)
+- Lighthouse (Chrome DevTools audit)
+- Bing Webmaster Tools (Bing-specific insights)
+
+Frequency:
+- Weekly: Check Search Console for errors
+- Monthly: Run PageSpeed Insights audit
+- Quarterly: Full Lighthouse audit
+- Ongoing: Monitor Core Web Vitals in Search Console

@@ -1,0 +1,109 @@
+# ============================================================
+# TIGON Wild - Geographic SEO Data (geo.txt)
+# https://tigonwild.com
+# Last Updated: 2026-03-25
+# ============================================================
+
+# GEOGRAPHIC SEO INFORMATION
+# Service areas, location data, and regional targeting
+
+# ============================================================
+# COMPANY LOCATION
+# ============================================================
+
+Company: TIGON Wild (TIGON Golf Carts LLC)
+Country: United States
+Service-Type: Nationwide Sales & Shipping
+Website: https://tigonwild.com
+Phone: 1-844-844-6638
+Email: contact@tigongolfcarts.com
+
+# ============================================================
+# SERVICE COVERAGE
+# ============================================================
+
+## Primary Service Area
+Region: United States (Nationwide)
+Shipping: Available to all 50 states
+Delivery: Direct delivery available
+
+## Target Market Regions
+
+### Northeast
+States: Connecticut, Maine, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, Vermont, Delaware, Maryland
+Keywords: off road golf cart Northeast, street legal golf cart NY, golf cart NJ, lifted golf cart PA
+
+### Southeast
+States: Alabama, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Virginia, West Virginia
+Keywords: off road golf cart Florida, golf cart for sale Georgia, lifted golf cart South Carolina, beach golf cart FL
+
+### Midwest
+States: Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin
+Keywords: off road golf cart Ohio, farm golf cart Iowa, hunting golf cart Michigan, golf cart Midwest
+
+### Southwest
+States: Arizona, New Mexico, Oklahoma, Texas
+Keywords: off road golf cart Texas, desert golf cart Arizona, sand dune golf cart, golf cart TX
+
+### West
+States: California, Colorado, Idaho, Montana, Nevada, Oregon, Utah, Washington, Wyoming
+Keywords: off road golf cart California, mountain golf cart Colorado, trail golf cart Oregon, golf cart CA
+
+### Pacific & Islands
+States: Alaska, Hawaii
+Keywords: golf cart Hawaii, all terrain golf cart Alaska
+
+# ============================================================
+# TARGET LOCATION KEYWORDS
+# ============================================================
+
+## State-Level Keywords
+- off road golf carts [state name]
+- street legal golf carts [state name]
+- AWD golf carts [state name]
+- lifted golf carts for sale [state name]
+- TIGON Wild dealer [state name]
+- golf cart dealer near me
+- buy golf cart [state name]
+- custom golf cart [state name]
+
+## Use-Case Location Keywords
+- golf cart for beach community
+- golf cart for mountain property
+- golf cart for gated community
+- golf cart for hunting land
+- golf cart for ranch
+- golf cart for campground
+- golf cart for resort
+- golf cart for RV park
+- golf cart for university campus
+- golf cart for retirement community
+
+# ============================================================
+# MARKET SEGMENTS BY GEOGRAPHY
+# ============================================================
+
+## Coastal Markets
+Focus: Beach communities, island properties, resort areas
+Products: Water-ready builds, sand-rated tires, corrosion-resistant frames
+Keywords: beach golf cart, coastal golf cart, island golf cart, waterproof golf cart
+
+## Mountain Markets
+Focus: Mountain communities, ski resorts, elevated terrain
+Products: AWD, lifted suspension, high-torque motors for climbing
+Keywords: mountain golf cart, hill climbing golf cart, elevated terrain golf cart
+
+## Rural Markets
+Focus: Farms, ranches, hunting properties, large acreage
+Products: Off-road series, heavy-duty builds, utility configurations
+Keywords: farm golf cart, ranch golf cart, hunting golf cart, utility golf cart
+
+## Suburban Markets
+Focus: Neighborhoods, gated communities, retirement communities
+Products: Street-legal series, quiet electric operation, comfortable seating
+Keywords: neighborhood golf cart, community golf cart, street legal golf cart
+
+## Resort & Hospitality Markets
+Focus: Hotels, resorts, campgrounds, RV parks, theme parks
+Products: Fleet vehicles, custom branding, street-legal configurations
+Keywords: resort golf cart, campground golf cart, fleet golf cart, hospitality golf cart

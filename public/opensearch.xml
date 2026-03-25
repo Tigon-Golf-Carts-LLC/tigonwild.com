@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>TIGON Wild</ShortName>
+  <Description>Search TIGON Wild - Off-Road, Street-Legal &amp; AWD Golf Carts</Description>
+  <Tags>golf carts off-road street-legal AWD TIGON Wild</Tags>
+  <Contact>contact@tigongolfcarts.com</Contact>
+  <Url type="text/html" template="https://www.google.com/search?q=site:tigonwild.com+{searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://tigonwild.com/public/opensearch.xml"/>
+  <Image height="16" width="16" type="image/png">https://tigonwild.com/public/favicon-16x16.png</Image>
+  <Image height="32" width="32" type="image/png">https://tigonwild.com/public/favicon-32x32.png</Image>
+  <LongName>TIGON Wild - Off-Road, Street-Legal and All-Wheel Drive Golf Carts</LongName>
+  <InputEncoding>UTF-8</InputEncoding>
+  <OutputEncoding>UTF-8</OutputEncoding>
+  <Language>en-us</Language>
+  <SyndicationRight>open</SyndicationRight>
+  <AdultContent>false</AdultContent>
+</OpenSearchDescription>

@@ -1,0 +1,31 @@
+# ============================================================
+# TIGON Wild - Security Policy (security.txt)
+# https://tigonwild.com/.well-known/security.txt
+# Last Updated: 2026-03-25
+# ============================================================
+
+# Security Contact Information
+Contact: mailto:contact@tigongolfcarts.com
+Contact: https://tigongolfcarts.com
+
+# Preferred Languages
+Preferred-Languages: en
+
+# Security Policy
+# If you discover a security vulnerability on tigonwild.com,
+# please report it responsibly via the contact above.
+# We appreciate responsible disclosure and will work to
+# address any valid security concerns promptly.
+
+# Expiration
+Expires: 2027-03-25T00:00:00.000Z
+
+# Acknowledgments
+# We thank all security researchers who responsibly disclose
+# vulnerabilities to help keep our site and users safe.
+
+# Policy
+Policy: https://tigongolfcarts.com
+
+# Canonical
+Canonical: https://tigonwild.com/public/security.txt

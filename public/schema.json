@@ -1,0 +1,230 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://tigonwild.com/#organization",
+      "name": "TIGON Wild",
+      "legalName": "TIGON Golf Carts LLC",
+      "url": "https://tigonwild.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tigonwild.com/public/icon-512x512.png",
+        "width": 512,
+        "height": 512
+      },
+      "image": "https://tigonwild.com/public/og-image.jpg",
+      "description": "TIGON Wild builds off-road, street-legal, and all-wheel drive golf carts engineered for adventure.",
+      "telephone": "+18448446638",
+      "email": "contact@tigongolfcarts.com",
+      "sameAs": [
+        "https://tigongolfcarts.com",
+        "https://x.com/TigonGolfCarts",
+        "https://www.facebook.com/Tigongolfcarts",
+        "https://www.pinterest.com/tigongolfcarts/",
+        "https://www.instagram.com/tigongolfcarts/"
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+1-844-844-6638",
+        "contactType": "sales",
+        "availableLanguage": "English"
+      },
+      "areaServed": {
+        "@type": "Country",
+        "name": "United States"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://tigonwild.com/#website",
+      "url": "https://tigonwild.com",
+      "name": "TIGON Wild",
+      "description": "Off-Road. Street-Legal. All-Wheel Drive. Golf carts engineered for adventure.",
+      "publisher": {
+        "@id": "https://tigonwild.com/#organization"
+      },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://tigonwild.com/#webpage",
+      "url": "https://tigonwild.com",
+      "name": "TIGON Wild | Off-Road, Street-Legal & AWD Golf Carts",
+      "description": "TIGON Wild builds off-road, street-legal, and all-wheel drive golf carts engineered for adventure. Explore rugged terrain, cruise neighborhood streets, or conquer any surface.",
+      "isPartOf": {
+        "@id": "https://tigonwild.com/#website"
+      },
+      "about": {
+        "@id": "https://tigonwild.com/#organization"
+      },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "Product",
+      "name": "TIGON Wild Off-Road Golf Cart",
+      "brand": {
+        "@type": "Brand",
+        "name": "TIGON Wild"
+      },
+      "description": "Heavy-duty off-road golf cart with lifted frame, all-terrain tires, heavy-duty suspension, brush guards, skid plates, LED light bars, and sealed waterproof electronics. Built for trails, mud, mountains, and extreme terrain.",
+      "category": "Off-Road Electric Vehicles",
+      "image": "https://tigonwild.com/images/fulls/20 TIGON Wild _ Golf Cart Adventure.jpg",
+      "offers": {
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "url": "https://tigongolfcarts.com",
+        "seller": {
+          "@id": "https://tigonwild.com/#organization"
+        }
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Top Speed",
+          "value": "25+ MPH"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Battery Type",
+          "value": "Lithium-Ion"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Frame",
+          "value": "Heavy-Duty Steel"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Suspension",
+          "value": "6-Inch Lift Kit with Heavy-Duty Shocks"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tires",
+          "value": "All-Terrain"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "name": "TIGON Wild Street-Legal Golf Cart",
+      "brand": {
+        "@type": "Brand",
+        "name": "TIGON Wild"
+      },
+      "description": "DOT-compliant street-legal golf cart with headlights, turn signals, mirrors, seatbelts, windshield, and VIN plate. Registered and road-ready for roads up to 35 mph zones.",
+      "category": "Low-Speed Vehicles",
+      "image": "https://tigonwild.com/images/fulls/28 TIGON Wild _ Golf Cart Adventure.jpg",
+      "offers": {
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "url": "https://tigongolfcarts.com",
+        "seller": {
+          "@id": "https://tigonwild.com/#organization"
+        }
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Compliance",
+          "value": "DOT Approved"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Road Legal",
+          "value": "Up to 35 MPH zones"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Battery Type",
+          "value": "Lithium-Ion"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "name": "TIGON Wild All-Wheel Drive Golf Cart",
+      "brand": {
+        "@type": "Brand",
+        "name": "TIGON Wild"
+      },
+      "description": "All-wheel drive golf cart with power to all four wheels for maximum grip on sand, mud, wet grass, steep hills, and loose gravel.",
+      "category": "AWD Electric Vehicles",
+      "image": "https://tigonwild.com/images/fulls/42 TIGON Wild _ Golf Cart Adventure.jpg",
+      "offers": {
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "url": "https://tigongolfcarts.com",
+        "seller": {
+          "@id": "https://tigonwild.com/#organization"
+        }
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Drivetrain",
+          "value": "All-Wheel Drive (AWD)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Battery Type",
+          "value": "Lithium-Ion"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Top Speed",
+          "value": "25+ MPH"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How fast do TIGON Wild golf carts go?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "TIGON Wild golf carts can reach speeds of 25+ MPH, powered by high-torque electric motors with lithium-ion battery packs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are TIGON Wild golf carts street legal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the Street-Legal Series comes with DOT-approved headlights, turn signals, side mirrors, automotive-grade seatbelts, a windshield, and a VIN plate. They are registered and road-ready for use on roads with speed limits up to 35 mph."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What terrain can TIGON Wild carts handle?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "TIGON Wild carts are designed for all terrain types: forest trails, mud, mountains, sand dunes, rocky terrain, creek crossings, wet grass, steep hills, loose gravel, and paved roads (street-legal models)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is AWD on a golf cart?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "AWD (All-Wheel Drive) means power is delivered to all four wheels simultaneously, providing maximum traction and grip on challenging surfaces like sand, mud, wet grass, steep hills, and loose gravel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I contact TIGON Wild?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can reach TIGON Wild by phone at 1-844-844-6638, by email at contact@tigongolfcarts.com, or visit tigonwild.com or tigongolfcarts.com."
+          }
+        }
+      ]
+    }
+  ]
+}

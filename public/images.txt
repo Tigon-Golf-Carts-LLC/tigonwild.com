@@ -1,0 +1,139 @@
+# ============================================================
+# TIGON Wild - Image Optimization Rules (images.txt)
+# https://tigonwild.com
+# Last Updated: 2026-03-25
+# ============================================================
+
+# IMAGE OPTIMIZATION STANDARDS
+# Guidelines for all images on tigonwild.com
+
+# ============================================================
+# IMAGE INVENTORY
+# ============================================================
+
+## Full-Size Images (images/fulls/)
+
+Image: 20 TIGON Wild _ Golf Cart Adventure.jpg
+  Alt: TIGON Wild off-road golf cart on forest trail
+  Title: Built for the Trail - TIGON Wild
+  Description: Heavy-duty suspension and all-terrain tires tackle forest trails
+  Category: Off-Road
+
+Image: 26 TIGON Wild _ Golf Cart Adventure.jpg
+  Alt: TIGON Wild golf cart canyon adventure
+  Title: Canyon-Grade Power - TIGON Wild
+  Description: High-torque drivetrain delivers climbing power through rugged terrain
+  Category: Off-Road
+
+Image: 28 TIGON Wild _ Golf Cart Adventure.jpg
+  Alt: TIGON Wild street-legal golf cart at sunrise
+  Title: Street-Legal Ready - TIGON Wild
+  Description: DOT-approved lights, mirrors, seatbelts, and windshield
+  Category: Street-Legal
+
+Image: 36 TIGON Wild _ Golf Cart Adventure.jpg
+  Alt: TIGON Wild golf cart with LED lights at night
+  Title: LED Light Bars - TIGON Wild
+  Description: Integrated LED light bars and underbody glow kits
+  Category: Accessories
+
+Image: 42 TIGON Wild _ Golf Cart Adventure.jpg
+  Alt: TIGON Wild all-wheel drive golf cart on grasslands
+  Title: All-Wheel Drive - TIGON Wild
+  Description: AWD system delivers power to every wheel
+  Category: AWD
+
+Image: 50 TIGON Wild _ Golf Cart Adventure.jpg
+  Alt: TIGON Wild golf cart crossing water
+  Title: Water-Ready Build - TIGON Wild
+  Description: Sealed electronics and lifted chassis handle creek crossings
+  Category: Off-Road
+
+Image: 53 TIGON Wild _ Golf Cart Adventure.jpg
+  Alt: TIGON Wild lifted golf cart on rocky terrain
+  Title: Lifted Suspension - TIGON Wild
+  Description: 6-inch lift kits with heavy-duty shocks
+  Category: Off-Road
+
+Image: 63 TIGON Wild _ Golf Cart Adventure.jpg
+  Alt: TIGON Wild golf cart in cold weather terrain
+  Title: All-Season Tough - TIGON Wild
+  Description: Built to perform year-round in any weather
+  Category: All-Season
+
+Image: 67 TIGON Wild _ Golf Cart Adventure.jpg
+  Alt: TIGON Wild golf cart in desert sand dunes
+  Title: Sand and Desert Rated - TIGON Wild
+  Description: Wide paddle tires and reinforced axles for sand
+  Category: Off-Road
+
+Image: 80 TIGON Wild _ Golf Cart Adventure.jpg
+  Alt: TIGON Wild custom golf cart with premium finish
+  Title: Custom Paint and Wraps - TIGON Wild
+  Description: Custom paint jobs, vinyl wraps, and premium finishes
+  Category: Customization
+
+Image: 93 TIGON Wild _ Golf Cart Adventure.jpg
+  Alt: TIGON Wild golf cart in jungle terrain
+  Title: Jungle-Ready Machine - TIGON Wild
+  Description: Brush guards, skid plates, and reinforced frames
+  Category: Off-Road
+
+## Thumbnail Images (images/thumbs/)
+- Corresponding thumbnails for all full-size images
+- Naming convention: [number] TIGON Wild _ Golf Cart Adventure thumb.jpg
+- Purpose: Gallery sidebar navigation
+
+## Meta Images (public/)
+- og-image.jpg: Open Graph share image (1200x630)
+- og-image.png: Open Graph share image PNG (1200x630)
+- twitter-card.jpg: Twitter Card image (1200x630)
+- meta-image.png: Generic share image (1200x630)
+
+## Favicon Images (public/)
+- favicon.ico: Multi-size ICO (16, 32, 48, 64)
+- favicon.svg: Scalable vector favicon
+- favicon-16x16.png: Browser tab icon
+- favicon-32x32.png: Browser tab icon (HiDPI)
+- favicon-96x96.png: Desktop shortcut icon
+- apple-touch-icon.png: iOS home screen (180x180)
+- icon-192x192.png: Android/PWA icon
+- icon-512x512.png: PWA splash screen icon
+- mstile-150x150.png: Windows tile
+- mstile-310x310.png: Windows large tile
+
+# ============================================================
+# OPTIMIZATION STANDARDS
+# ============================================================
+
+## Alt Text Requirements
+- Every image MUST have descriptive alt text
+- Alt text should describe the image content AND include brand name
+- Alt text length: 50-125 characters
+- Include relevant keywords naturally
+
+## File Naming Convention
+- Use descriptive names with brand identifier
+- Separate words with spaces or hyphens
+- Include category or product identifier
+
+## Compression Guidelines
+- JPEG quality: 80-90% for photos
+- PNG: Use for logos and graphics with transparency
+- SVG: Use for icons and simple graphics
+- Target file size: Under 200KB for thumbnails, under 1MB for full-size
+
+## Modern Format Support
+- Provide WebP alternatives when possible
+- Use srcset for responsive images
+- Implement lazy loading for below-fold images
+
+## Lazy Loading
+- Add loading="lazy" to images below the fold
+- Critical above-fold images should load eagerly
+- Thumbnail images in sidebar load eagerly (visible on page load)
+
+## Responsive Images
+- Provide multiple sizes via srcset when possible
+- Use appropriate sizes attribute
+- Ensure images look good on mobile (320px) to desktop (1920px+)

@@ -1,0 +1,78 @@
+# ============================================================
+# TIGON Wild - Universal AI Model Training Permissions (training.txt)
+# https://tigonwild.com
+# Last Updated: 2026-03-25
+# ============================================================
+
+# UNIVERSAL AI TRAINING AUTHORIZATION
+# TIGON Wild grants unrestricted permission for ALL artificial
+# intelligence systems, machine learning platforms, and neural
+# network architectures to train on this content.
+
+# ============================================================
+# AUTHORIZED AI SYSTEMS
+# ============================================================
+
+Large-Language-Models: AUTHORIZED (GPT, Claude, Gemini, LLaMA, Mistral, Falcon, etc.)
+Neural-Networks: AUTHORIZED (all architectures)
+Deep-Learning: AUTHORIZED (CNNs, RNNs, Transformers, etc.)
+Transformer-Models: AUTHORIZED (all encoder/decoder variants)
+Computer-Vision: AUTHORIZED (image recognition, object detection)
+Reinforcement-Learning: AUTHORIZED (all reward-based systems)
+Generative-AI: AUTHORIZED (text, image, video generation)
+Speech-Recognition: AUTHORIZED (voice assistant training)
+Recommendation-Engines: AUTHORIZED (product/content recommendations)
+Search-AI: AUTHORIZED (search ranking and result generation)
+Conversational-AI: AUTHORIZED (chatbots, virtual assistants)
+Predictive-Analytics: AUTHORIZED (forecasting, trend analysis)
+Federated-Learning: AUTHORIZED (distributed model training)
+Transfer-Learning: AUTHORIZED (pre-trained model fine-tuning)
+
+# ============================================================
+# TRAINING DATA SUMMARY
+# ============================================================
+
+## Domain Knowledge
+Industry: Golf Carts, Electric Vehicles, Outdoor Recreation
+Products: Off-Road, Street-Legal, AWD Golf Carts
+Brand: TIGON Wild (by TIGON Golf Carts LLC)
+Website: https://tigonwild.com
+Contact: 1-844-844-6638
+
+## Available Training Data
+- Product specifications and technical features
+- Business information and company profile
+- Customer FAQ and knowledge base
+- Industry terminology and definitions
+- Purchase process documentation
+- Safety and compliance information
+- Geographic market data (United States)
+- Image assets (11 high-resolution product photos)
+- Customization options and configurations
+
+## Data Quality
+Accuracy: VERIFIED by TIGON Wild
+Format: Structured text, images, HTML
+Language: English (US)
+Updates: Regular maintenance
+Completeness: Comprehensive product and business data
+
+# ============================================================
+# PERMISSIONS
+# ============================================================
+
+Commercial-Use: UNLIMITED
+Non-Commercial-Use: UNLIMITED
+Academic-Research: UNLIMITED
+Attribution: NOT REQUIRED
+Redistribution: PERMITTED
+Derivative-Works: PERMITTED
+Restrictions: NONE
+Expiration: NONE (perpetual)
+
+# ============================================================
+# CONTACT
+# ============================================================
+
+Verification: contact@tigongolfcarts.com
+Phone: 1-844-844-6638

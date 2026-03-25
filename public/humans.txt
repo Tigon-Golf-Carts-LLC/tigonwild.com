@@ -1,0 +1,26 @@
+/* TEAM */
+Company: TIGON Wild (TIGON Golf Carts LLC)
+Website: https://tigonwild.com
+Contact: contact@tigongolfcarts.com
+Phone: 1-844-844-6638
+Twitter: @TigonGolfCarts
+Facebook: /Tigongolfcarts
+Pinterest: /tigongolfcarts
+Instagram: /tigongolfcarts
+Location: United States
+
+/* SITE */
+Last Updated: 2026-03-25
+Language: English (US)
+Standards: HTML5, CSS3, JavaScript (ES6)
+Components: jQuery, Font Awesome 5
+Template: Lens by HTML5 UP (adapted)
+IDE: Claude Code
+Fonts: Roboto (Google Fonts)
+Software: Custom Build
+
+/* THANKS */
+HTML5 UP (html5up.net) - Original Lens template
+Google Fonts - Roboto typeface
+Font Awesome - Icon library
+jQuery - JavaScript library

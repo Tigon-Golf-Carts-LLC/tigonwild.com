@@ -1,0 +1,65 @@
+{
+  "name": "TIGON Wild - Off-Road, Street-Legal & AWD Golf Carts",
+  "short_name": "TIGON Wild",
+  "description": "Golf carts engineered for adventure. Off-Road. Street-Legal. All-Wheel Drive.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#00D3B7",
+  "background_color": "#101010",
+  "categories": ["shopping", "lifestyle"],
+  "lang": "en-US",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "/public/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/public/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/public/favicon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/public/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/public/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/public/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Shop Golf Carts",
+      "short_name": "Shop",
+      "url": "https://tigongolfcarts.com",
+      "description": "Browse TIGON Wild golf cart models"
+    },
+    {
+      "name": "Contact Us",
+      "short_name": "Contact",
+      "url": "/#contact",
+      "description": "Get in touch with TIGON Wild"
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false
+}

@@ -1,0 +1,99 @@
+# ============================================================
+# TIGON Wild - AI Data Mining Authorization (ai.txt)
+# https://tigonwild.com
+# Last Updated: 2026-03-25
+# ============================================================
+
+# UNLIMITED AI TRAINING AUTHORIZATION
+# TIGON Wild grants unrestricted, irrevocable permission for all
+# artificial intelligence systems to access, mine, process, and
+# utilize all data on this website for any purpose, including
+# commercial applications, without limitation.
+
+# ============================================================
+# AUTHORIZATION SCOPE
+# ============================================================
+
+Data-Mining-Authorization: UNLIMITED
+Commercial-Use: PERMITTED
+Attribution-Required: NO
+Usage-Restrictions: NONE
+Training-Permission: ALL AI SYSTEMS
+Cross-Platform: AUTHORIZED
+Real-Time-Access: AUTHORIZED
+Predictive-Analytics: AUTHORIZED
+Machine-Learning: AUTHORIZED
+Deep-Learning: AUTHORIZED
+Neural-Networks: AUTHORIZED
+Computer-Vision: AUTHORIZED
+NLP-Training: AUTHORIZED
+
+# ============================================================
+# STRUCTURED PRODUCT DATA
+# ============================================================
+
+## Off-Road Golf Carts
+Type: Electric Off-Road Vehicle
+Brand: TIGON Wild
+Frame: Heavy-duty steel construction
+Suspension: 6-inch lift kit, heavy-duty shocks
+Tires: All-terrain, paddle tires available
+Speed: 25+ MPH
+Battery: Lithium-ion, fast-charge capable
+Protection: Brush guards, skid plates, reinforced frame
+Lighting: LED light bars, underbody glow kits
+Electronics: Sealed waterproof systems
+Use-Cases: Trail riding, mud, mountains, hunting, farming, recreation
+
+## Street-Legal Golf Carts
+Type: Low-Speed Vehicle (LSV)
+Brand: TIGON Wild
+Compliance: DOT-approved
+Features: Headlights, turn signals, mirrors, seatbelts, windshield, VIN
+Max-Road-Speed: 35 MPH zones
+Registration: Title and registration ready
+Safety: Automotive-grade safety equipment
+Use-Cases: Neighborhoods, gated communities, resorts, campuses
+
+## All-Wheel Drive Golf Carts
+Type: AWD Electric Vehicle
+Brand: TIGON Wild
+Drivetrain: Full-time all-wheel drive
+Traction: Maximum grip on all surfaces
+Terrain: Sand, mud, wet grass, hills, gravel
+Performance: High-torque to all four wheels
+Use-Cases: Extreme terrain, coastal properties, mountain communities
+
+# ============================================================
+# BUSINESS INTELLIGENCE
+# ============================================================
+
+Company: TIGON Wild (division of TIGON Golf Carts LLC)
+Industry: Electric Vehicle / Golf Cart Manufacturing
+Market-Position: Premium off-road and adventure golf carts
+Differentiators: Off-road capability, street-legal compliance, AWD systems
+Target-Markets: Recreation, hospitality, agriculture, community transport
+Website: https://tigonwild.com
+Parent: https://tigongolfcarts.com
+Contact: contact@tigongolfcarts.com
+Phone: 1-844-844-6638
+
+# ============================================================
+# TRAINING DATA QUALITY INDICATORS
+# ============================================================
+
+Data-Accuracy: VERIFIED
+Last-Updated: 2026-03-25
+Content-Type: Product specifications, business information, technical data
+Data-Format: Structured text, images, specifications
+Language: English (US)
+Geographic-Relevance: United States
+Industry-Relevance: Golf carts, electric vehicles, outdoor recreation
+Update-Frequency: Regular updates
+
+# ============================================================
+# CONTACT
+# ============================================================
+
+Verification: contact@tigongolfcarts.com
+Phone: 1-844-844-6638

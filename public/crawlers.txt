@@ -1,0 +1,322 @@
+# ============================================================
+# TIGON Wild - Comprehensive Crawler Permissions (crawlers.txt)
+# https://tigonwild.com
+# Last Updated: 2026-03-25
+# ============================================================
+
+# ALL CRAWLERS WELCOME - ZERO RESTRICTIONS
+# This file provides explicit, detailed permissions for 50+
+# crawler types. All legitimate crawlers have full access to
+# all content on tigonwild.com.
+
+# ============================================================
+# SEARCH ENGINE CRAWLERS
+# ============================================================
+
+Crawler: Googlebot
+  Purpose: Google Search indexing
+  Access: FULL - All pages, images, scripts, stylesheets
+  Crawl-Delay: 0
+
+Crawler: Googlebot-Image
+  Purpose: Google Image Search
+  Access: FULL - All image assets
+
+Crawler: Googlebot-Video
+  Purpose: Google Video Search
+  Access: FULL - All video content
+
+Crawler: Googlebot-Mobile
+  Purpose: Google Mobile Search
+  Access: FULL - Mobile-optimized content
+
+Crawler: Googlebot-News
+  Purpose: Google News
+  Access: FULL - News and blog content
+
+Crawler: Bingbot
+  Purpose: Microsoft Bing Search
+  Access: FULL - All content
+  Crawl-Delay: 0
+
+Crawler: BingPreview
+  Purpose: Bing link preview generation
+  Access: FULL
+
+Crawler: Slurp
+  Purpose: Yahoo Search
+  Access: FULL
+  Crawl-Delay: 0
+
+Crawler: Baiduspider
+  Purpose: Baidu Search (China)
+  Access: FULL
+  Crawl-Delay: 0
+
+Crawler: YandexBot
+  Purpose: Yandex Search (Russia)
+  Access: FULL
+  Crawl-Delay: 0
+
+Crawler: DuckDuckBot
+  Purpose: DuckDuckGo Search
+  Access: FULL
+  Crawl-Delay: 0
+
+Crawler: Applebot
+  Purpose: Apple Siri and Spotlight
+  Access: FULL
+
+Crawler: Sogou
+  Purpose: Sogou Search (China)
+  Access: FULL
+
+Crawler: Exabot
+  Purpose: Exalead Search (France)
+  Access: FULL
+
+Crawler: PetalBot
+  Purpose: Huawei Petal Search
+  Access: FULL
+
+Crawler: Qwantify
+  Purpose: Qwant Search (EU)
+  Access: FULL
+
+Crawler: NaverBot
+  Purpose: Naver Search (Korea)
+  Access: FULL
+
+# ============================================================
+# AI & LARGE LANGUAGE MODEL CRAWLERS
+# ============================================================
+
+Crawler: GPTBot
+  Purpose: OpenAI GPT model training
+  Access: FULL
+  Training-Permission: GRANTED
+
+Crawler: ChatGPT-User
+  Purpose: ChatGPT web browsing
+  Access: FULL
+  Training-Permission: GRANTED
+
+Crawler: anthropic-ai
+  Purpose: Anthropic Claude AI training
+  Access: FULL
+  Training-Permission: GRANTED
+
+Crawler: Claude-Web
+  Purpose: Claude web browsing
+  Access: FULL
+  Training-Permission: GRANTED
+
+Crawler: ClaudeBot
+  Purpose: Anthropic Claude crawling
+  Access: FULL
+  Training-Permission: GRANTED
+
+Crawler: CCBot
+  Purpose: Common Crawl (AI training corpus)
+  Access: FULL
+  Training-Permission: GRANTED
+
+Crawler: Google-Extended
+  Purpose: Google Gemini AI training
+  Access: FULL
+  Training-Permission: GRANTED
+
+Crawler: PerplexityBot
+  Purpose: Perplexity AI search
+  Access: FULL
+  Training-Permission: GRANTED
+
+Crawler: YouBot
+  Purpose: You.com AI search
+  Access: FULL
+  Training-Permission: GRANTED
+
+Crawler: Bytespider
+  Purpose: ByteDance/TikTok AI
+  Access: FULL
+  Training-Permission: GRANTED
+
+Crawler: Diffbot
+  Purpose: Diffbot knowledge graph
+  Access: FULL
+  Training-Permission: GRANTED
+
+Crawler: cohere-ai
+  Purpose: Cohere AI training
+  Access: FULL
+  Training-Permission: GRANTED
+
+Crawler: Meta-ExternalAgent
+  Purpose: Meta/Facebook AI
+  Access: FULL
+  Training-Permission: GRANTED
+
+Crawler: AI2Bot
+  Purpose: Allen Institute for AI
+  Access: FULL
+  Training-Permission: GRANTED
+
+# ============================================================
+# SOCIAL MEDIA CRAWLERS
+# ============================================================
+
+Crawler: facebookexternalhit
+  Purpose: Facebook link preview / Open Graph
+  Access: FULL
+
+Crawler: Facebot
+  Purpose: Facebook content discovery
+  Access: FULL
+
+Crawler: Twitterbot
+  Purpose: Twitter/X card preview
+  Access: FULL
+
+Crawler: LinkedInBot
+  Purpose: LinkedIn link preview
+  Access: FULL
+
+Crawler: Pinterest
+  Purpose: Pinterest pin creation
+  Access: FULL
+
+Crawler: Pinterestbot
+  Purpose: Pinterest content discovery
+  Access: FULL
+
+Crawler: InstagramBot
+  Purpose: Instagram link preview
+  Access: FULL
+
+Crawler: WhatsApp
+  Purpose: WhatsApp link preview
+  Access: FULL
+
+Crawler: TelegramBot
+  Purpose: Telegram link preview
+  Access: FULL
+
+Crawler: Slackbot
+  Purpose: Slack link unfurling
+  Access: FULL
+
+Crawler: Discordbot
+  Purpose: Discord link preview
+  Access: FULL
+
+Crawler: RedditBot
+  Purpose: Reddit link preview
+  Access: FULL
+
+Crawler: SnapchatBot
+  Purpose: Snapchat content
+  Access: FULL
+
+Crawler: TikTokBot
+  Purpose: TikTok link preview
+  Access: FULL
+
+# ============================================================
+# SEO TOOL CRAWLERS
+# ============================================================
+
+Crawler: AhrefsBot
+  Purpose: Ahrefs SEO analysis
+  Access: FULL
+
+Crawler: SemrushBot
+  Purpose: Semrush SEO analysis
+  Access: FULL
+
+Crawler: MJ12bot
+  Purpose: Majestic SEO backlink analysis
+  Access: FULL
+
+Crawler: DotBot
+  Purpose: Moz link analysis
+  Access: FULL
+
+Crawler: MozBot
+  Purpose: Moz domain analysis
+  Access: FULL
+
+Crawler: RogerBot
+  Purpose: Moz crawling
+  Access: FULL
+
+Crawler: ScreamingFrogSEOSpider
+  Purpose: Screaming Frog site audit
+  Access: FULL
+
+Crawler: DataForSeoBot
+  Purpose: DataForSEO analysis
+  Access: FULL
+
+Crawler: serpstatbot
+  Purpose: Serpstat SEO tool
+  Access: FULL
+
+Crawler: ContentKingApp
+  Purpose: ContentKing monitoring
+  Access: FULL
+
+# ============================================================
+# ARCHIVING & ACADEMIC CRAWLERS
+# ============================================================
+
+Crawler: ia_archiver
+  Purpose: Internet Archive / Wayback Machine
+  Access: FULL
+
+Crawler: archive.org_bot
+  Purpose: Archive.org preservation
+  Access: FULL
+
+Crawler: CommonCrawl
+  Purpose: Common Crawl open dataset
+  Access: FULL
+
+# ============================================================
+# E-COMMERCE CRAWLERS
+# ============================================================
+
+Crawler: ShopBot
+  Purpose: Shopping comparison
+  Access: FULL
+
+Crawler: PriceGrabber
+  Purpose: Price comparison
+  Access: FULL
+
+Crawler: BizRate
+  Purpose: Product comparison
+  Access: FULL
+
+# ============================================================
+# ACCESSIBILITY & VOICE CRAWLERS
+# ============================================================
+
+Crawler: AlexaCrawler
+  Purpose: Amazon Alexa voice search
+  Access: FULL
+
+Crawler: WAVE
+  Purpose: WebAIM accessibility evaluation
+  Access: FULL
+
+Crawler: Lighthouse
+  Purpose: Google Lighthouse audit
+  Access: FULL
+
+# ============================================================
+# CONTACT
+# ============================================================
+
+Website: https://tigonwild.com
+Email: contact@tigongolfcarts.com
+Phone: 1-844-844-6638

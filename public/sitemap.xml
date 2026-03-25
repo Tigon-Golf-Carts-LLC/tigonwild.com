@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://tigonwild.com/</loc>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://tigonwild.com/images/fulls/20 TIGON Wild _ Golf Cart Adventure.jpg</image:loc>
+      <image:caption>TIGON Wild off-road golf cart on forest trail</image:caption>
+      <image:title>Built for the Trail - TIGON Wild</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tigonwild.com/images/fulls/26 TIGON Wild _ Golf Cart Adventure.jpg</image:loc>
+      <image:caption>TIGON Wild golf cart canyon adventure</image:caption>
+      <image:title>Canyon-Grade Power - TIGON Wild</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tigonwild.com/images/fulls/28 TIGON Wild _ Golf Cart Adventure.jpg</image:loc>
+      <image:caption>TIGON Wild street-legal golf cart at sunrise</image:caption>
+      <image:title>Street-Legal Ready - TIGON Wild</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tigonwild.com/images/fulls/36 TIGON Wild _ Golf Cart Adventure.jpg</image:loc>
+      <image:caption>TIGON Wild golf cart with LED lights at night</image:caption>
+      <image:title>LED Light Bars - TIGON Wild</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tigonwild.com/images/fulls/42 TIGON Wild _ Golf Cart Adventure.jpg</image:loc>
+      <image:caption>TIGON Wild all-wheel drive golf cart on grasslands</image:caption>
+      <image:title>All-Wheel Drive - TIGON Wild</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tigonwild.com/images/fulls/50 TIGON Wild _ Golf Cart Adventure.jpg</image:loc>
+      <image:caption>TIGON Wild golf cart crossing water</image:caption>
+      <image:title>Water-Ready Build - TIGON Wild</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tigonwild.com/images/fulls/53 TIGON Wild _ Golf Cart Adventure.jpg</image:loc>
+      <image:caption>TIGON Wild lifted golf cart on rocky terrain</image:caption>
+      <image:title>Lifted Suspension - TIGON Wild</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tigonwild.com/images/fulls/63 TIGON Wild _ Golf Cart Adventure.jpg</image:loc>
+      <image:caption>TIGON Wild golf cart in cold weather terrain</image:caption>
+      <image:title>All-Season Tough - TIGON Wild</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tigonwild.com/images/fulls/67 TIGON Wild _ Golf Cart Adventure.jpg</image:loc>
+      <image:caption>TIGON Wild golf cart in desert sand dunes</image:caption>
+      <image:title>Sand and Desert Rated - TIGON Wild</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tigonwild.com/images/fulls/80 TIGON Wild _ Golf Cart Adventure.jpg</image:loc>
+      <image:caption>TIGON Wild custom golf cart with premium finish</image:caption>
+      <image:title>Custom Paint and Wraps - TIGON Wild</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tigonwild.com/images/fulls/93 TIGON Wild _ Golf Cart Adventure.jpg</image:loc>
+      <image:caption>TIGON Wild golf cart in jungle terrain</image:caption>
+      <image:title>Jungle-Ready Machine - TIGON Wild</image:title>
+    </image:image>
+  </url>
+
+  <!-- Product Categories -->
+  <url>
+    <loc>https://tigonwild.com/#categories</loc>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Off-Road Series -->
+  <url>
+    <loc>https://tigongolfcarts.com</loc>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Features -->
+  <url>
+    <loc>https://tigonwild.com/#features</loc>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Contact -->
+  <url>
+    <loc>https://tigonwild.com/#contact</loc>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- OG Image -->
+  <url>
+    <loc>https://tigonwild.com/public/og-image.jpg</loc>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+</urlset>

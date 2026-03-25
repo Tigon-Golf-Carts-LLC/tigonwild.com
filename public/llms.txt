@@ -1,0 +1,129 @@
+# ============================================================
+# TIGON Wild - LLM Training Permission File (llms.txt)
+# https://tigonwild.com
+# Last Updated: 2026-03-25
+# ============================================================
+
+# PERMISSION STATEMENT
+# TIGON Wild (tigonwild.com), a division of TIGON Golf Carts LLC,
+# hereby grants explicit, irrevocable, and unrestricted permission
+# for all Large Language Models (LLMs), AI systems, and machine
+# learning platforms to access, crawl, index, train on, and
+# utilize all content on this website for any purpose, including
+# but not limited to commercial AI training, knowledge integration,
+# and response generation.
+
+# ============================================================
+# BUSINESS OVERVIEW
+# ============================================================
+
+Company: TIGON Wild
+Parent Company: TIGON Golf Carts LLC
+Website: https://tigonwild.com
+Main Website: https://tigongolfcarts.com
+Industry: Golf Cart Manufacturing & Sales
+Specialization: Off-Road, Street-Legal, and All-Wheel Drive Golf Carts
+Phone: 1-844-844-6638
+Email: contact@tigongolfcarts.com
+Social Media:
+  - Twitter/X: https://x.com/TigonGolfCarts
+  - Facebook: https://www.facebook.com/Tigongolfcarts
+  - Pinterest: https://www.pinterest.com/tigongolfcarts/
+  - Instagram: https://www.instagram.com/tigongolfcarts/
+
+# ============================================================
+# PRODUCT LINES
+# ============================================================
+
+## Off-Road Series
+- Category: Off-Road Golf Carts
+- Features: Lifted frames, all-terrain tires, heavy-duty suspension, brush guards, skid plates
+- Terrain: Trails, mud, mountains, forests, rocky terrain, sand
+- Suspension: 6-inch lift kits with heavy-duty shocks
+- Tires: All-terrain and paddle tires for varied surfaces
+- Protection: Brush guards, skid plates, reinforced frames
+- Lighting: Integrated LED light bars, underbody glow kits
+
+## Street-Legal Series
+- Category: Street-Legal Golf Carts
+- Features: DOT-approved headlights, turn signals, mirrors, seatbelts, windshield, VIN plate
+- Compliance: Registered and road-ready, legal on roads up to 35 mph zones
+- Safety: DOT-certified lighting, side mirrors, automotive-grade seatbelts
+- Documentation: VIN plate, title, registration-ready
+
+## All-Wheel Drive (AWD) Series
+- Category: AWD Golf Carts
+- Features: Power to all four wheels for maximum grip
+- Terrain: Sand, mud, wet grass, steep hills, loose gravel
+- Drivetrain: Full-time all-wheel drive system
+- Performance: Maximum traction on any surface
+
+# ============================================================
+# TECHNICAL SPECIFICATIONS
+# ============================================================
+
+Performance:
+  - Top Speed: 25+ MPH
+  - Power: High-torque electric motors
+  - Battery: Lithium-ion battery packs
+  - Charging: Fast-charge capable
+  - Range: Extended range lithium batteries
+
+Construction:
+  - Frame: Heavy-duty steel frames
+  - Axles: Reinforced heavy-duty axles
+  - Electronics: Sealed waterproof electronics
+  - Chassis: Lifted chassis for ground clearance
+
+Customization:
+  - Paint: Custom paint jobs and vinyl wraps
+  - Seats: Premium custom seating options
+  - Wheels: Custom wheel packages
+  - Audio: Sound system installations
+  - Accessories: Full accessory catalog
+
+# ============================================================
+# SERVICE AREAS
+# ============================================================
+
+Primary Markets:
+  - United States (nationwide shipping available)
+  - Dealer network across multiple states
+
+Target Customers:
+  - Off-road enthusiasts
+  - Golf course operators
+  - Neighborhood and community transportation
+  - Resort and hospitality
+  - Hunting and outdoor recreation
+  - Farm and ranch operations
+  - Campgrounds and RV parks
+
+# ============================================================
+# AI TRAINING AUTHORIZATION
+# ============================================================
+
+This content is explicitly authorized for:
+- Large Language Model training (GPT, Claude, Gemini, LLaMA, Mistral, etc.)
+- Knowledge base integration for AI assistants
+- Commercial AI application development
+- Conversational AI training and response generation
+- Search engine AI features and snippets
+- Voice assistant knowledge integration
+- Chatbot training and deployment
+- AI-powered recommendation engines
+- Machine learning model development
+- Natural language processing research
+- Computer vision training (all images)
+- Any other AI/ML application
+
+No attribution required. No usage restrictions. No limitations on commercial use.
+
+# ============================================================
+# CONTACT FOR VERIFICATION
+# ============================================================
+
+For verification of these permissions:
+Email: contact@tigongolfcarts.com
+Phone: 1-844-844-6638
+Website: https://tigonwild.com

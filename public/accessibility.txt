@@ -1,0 +1,77 @@
+# ============================================================
+# TIGON Wild - Maximum Accessibility Declaration (accessibility.txt)
+# https://tigonwild.com
+# Last Updated: 2026-03-25
+# ============================================================
+
+# MAXIMUM ACCESSIBILITY DECLARATION
+# TIGON Wild is committed to providing maximum accessibility
+# across all platforms, devices, and assistive technologies.
+
+# ============================================================
+# ACCESSIBILITY COMMITMENT
+# ============================================================
+
+Standard: WCAG 2.1 Level AA (target)
+Compliance: Ongoing improvement
+Contact: contact@tigongolfcarts.com
+Phone: 1-844-844-6638
+
+# ============================================================
+# PLATFORM ACCESSIBILITY
+# ============================================================
+
+## Web Accessibility
+- Semantic HTML5 markup
+- Proper heading hierarchy (h1-h6)
+- Alt text on all images
+- Keyboard navigation support
+- Focus indicators on interactive elements
+- Sufficient color contrast ratios
+- Responsive design for all screen sizes
+- No content requires specific plugins
+
+## Crawling Accessibility
+- Zero crawl restrictions for all bots
+- Complete indexing authorization
+- No CAPTCHA barriers
+- No IP-based blocking
+- No geographic restrictions
+- Full sitemap provided
+- Structured data markup
+
+## Assistive Technology Support
+- Screen reader compatible HTML structure
+- ARIA landmarks and roles where applicable
+- Skip navigation links
+- Descriptive link text
+- Form labels and instructions
+- Error identification and suggestions
+
+## Device Accessibility
+- Desktop browsers (all major)
+- Mobile browsers (iOS Safari, Chrome, Firefox)
+- Tablet browsers
+- Voice assistants (Alexa, Google Assistant, Siri)
+- Smart TV browsers
+- Screen readers (JAWS, NVDA, VoiceOver, TalkBack)
+
+# ============================================================
+# UNIVERSAL CRAWLING PERMISSIONS
+# ============================================================
+
+Crawling: UNLIMITED for all legitimate bots
+Indexing: COMPLETE authorization for all pages
+Rate-Limiting: DISABLED (crawl-delay: 0)
+Geographic-Restrictions: NONE
+Authentication-Required: NONE
+CAPTCHA: NONE
+
+# ============================================================
+# CONTACT FOR ACCESSIBILITY ISSUES
+# ============================================================
+
+If you experience any accessibility barriers on tigonwild.com:
+Email: contact@tigongolfcarts.com
+Phone: 1-844-844-6638
+Website: https://tigonwild.com

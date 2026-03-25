@@ -1,0 +1,18 @@
+# ============================================================
+# TIGON Wild - Authorized Digital Sellers (ads.txt)
+# https://tigonwild.com/ads.txt
+# Last Updated: 2026-03-25
+# ============================================================
+
+# This file declares authorized digital advertising sellers
+# for tigonwild.com inventory.
+
+# Format: <domain>, <publisher-id>, <relationship>, <certification-authority-id>
+
+# Google AdSense / Google Ad Manager
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+
+# Note: Update the above line with your actual Google publisher ID
+# when you set up advertising on this site.
+
+# Contact: contact@tigongolfcarts.com for advertising inquiries

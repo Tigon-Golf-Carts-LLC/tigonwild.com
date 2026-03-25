@@ -1,0 +1,160 @@
+# ============================================================
+# TIGON Wild - Compliance & Standards Documentation (compliance.txt)
+# https://tigonwild.com
+# Last Updated: 2026-03-25
+# ============================================================
+
+# REGULATORY AND INDUSTRY COMPLIANCE DOCUMENTATION
+
+# ============================================================
+# WEB STANDARDS COMPLIANCE
+# ============================================================
+
+## HTML Standards
+- HTML5 specification compliant
+- Semantic markup with proper heading hierarchy
+- Valid document structure (DOCTYPE, lang, charset, viewport)
+- Accessible form elements with labels
+
+## CSS Standards
+- CSS3 compliant
+- Vendor prefixes for cross-browser compatibility (-moz, -webkit, -ms)
+- Responsive design with media queries
+- No deprecated CSS properties
+
+## JavaScript Standards
+- ECMAScript 5+ compatible
+- jQuery library for DOM manipulation
+- Event delegation for performance
+- No eval() or inline event handlers
+
+# ============================================================
+# ACCESSIBILITY COMPLIANCE (WCAG)
+# ============================================================
+
+Target Standard: WCAG 2.1 Level AA
+
+## Perceivable
+- Alt text provided for all images
+- Sufficient color contrast (text on backgrounds)
+- Content structure conveyed through semantic HTML
+- Text resizable without loss of functionality
+
+## Operable
+- Full keyboard navigation support (arrow keys, tab, escape, space)
+- No keyboard traps
+- Focus indicators visible on interactive elements
+- Touch gestures for mobile navigation
+
+## Understandable
+- Language declared in HTML (lang="en")
+- Consistent navigation patterns
+- Descriptive link text
+- Clear call-to-action buttons
+
+## Robust
+- Valid HTML5 markup
+- Compatible with major screen readers
+- Cross-browser compatibility
+- Progressive enhancement approach
+
+# ============================================================
+# PRIVACY COMPLIANCE
+# ============================================================
+
+## GDPR Considerations
+- No personal data collected on tigonwild.com without consent
+- No tracking cookies set by the website itself
+- Third-party services (Google Fonts) load external resources
+- Contact forms transmit data only when user initiates
+- Email and phone contact provided for data requests
+
+## CCPA Considerations
+- No sale of personal information
+- Transparent data collection practices
+- Contact information provided for consumer requests
+
+## General Privacy
+- No hidden data collection
+- No user tracking without consent
+- External links clearly identified
+- Email addresses protected from scraping
+
+# ============================================================
+# AUTOMOTIVE INDUSTRY STANDARDS
+# ============================================================
+
+## Street-Legal Compliance (LSV)
+- DOT-approved headlights and taillights
+- Turn signals (front and rear)
+- Side mirrors (driver and passenger)
+- Automotive-grade seatbelts
+- DOT-approved windshield
+- VIN plate for registration
+- Compliant with FMVSS 500 (Federal Motor Vehicle Safety Standards for LSVs)
+- Maximum speed: 25 MPH (compliant with LSV classification)
+- Road legal on roads with posted speed limits of 35 MPH or less
+
+## Electric Vehicle Standards
+- Lithium-ion battery safety compliance
+- Electrical system safety standards
+- Charging system safety compliance
+- Motor controller safety standards
+
+## Manufacturing Standards
+- Steel frame construction quality standards
+- Suspension and steering safety
+- Brake system compliance
+- Lighting and electrical system standards
+
+# ============================================================
+# SEARCH ENGINE COMPLIANCE
+# ============================================================
+
+## Google Search Console
+- Valid sitemap.xml submitted
+- robots.txt properly configured
+- No manual actions or penalties
+- Mobile-friendly design verified
+- Structured data (JSON-LD) implemented
+
+## Bing Webmaster Tools
+- Sitemap submitted
+- robots.txt accessible
+- Content indexing authorized
+
+## General SEO Compliance
+- No cloaking or hidden content
+- No keyword stuffing
+- No link schemes
+- No scraped or duplicate content
+- Original, valuable content
+- Proper canonical URLs
+- No doorway pages
+
+# ============================================================
+# SECURITY STANDARDS
+# ============================================================
+
+- HTTPS recommended for all pages
+- Responsible disclosure policy (security.txt)
+- No mixed content issues
+- Content Security Policy recommended
+- Regular security monitoring recommended
+
+# ============================================================
+# ADVERTISING COMPLIANCE
+# ============================================================
+
+- ads.txt file provided for advertising transparency
+- FTC disclosure compliance for any sponsored content
+- Clear distinction between advertising and editorial content
+- No deceptive advertising practices
+
+# ============================================================
+# CONTACT FOR COMPLIANCE INQUIRIES
+# ============================================================
+
+Email: contact@tigongolfcarts.com
+Phone: 1-844-844-6638
+Website: https://tigonwild.com

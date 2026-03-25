@@ -1,0 +1,150 @@
+# ============================================================
+# TIGON Wild - Universal Bot Permissions (bots.txt)
+# https://tigonwild.com
+# Last Updated: 2026-03-25
+# ============================================================
+
+# UNIVERSAL BOT ACCESS DECLARATION
+# All legitimate bots and crawlers are welcome to access,
+# crawl, index, and process all content on tigonwild.com
+# with zero restrictions and zero crawl delay.
+
+# ============================================================
+# ACCESS POLICY
+# ============================================================
+
+Default-Access: ALLOW ALL
+Crawl-Delay: 0 (no delay)
+Rate-Limiting: DISABLED
+Restrictions: NONE
+Sitemap: https://tigonwild.com/public/sitemap.xml
+
+# ============================================================
+# SEARCH ENGINE BOTS - FULL ACCESS
+# ============================================================
+
+Bot: Googlebot | Access: FULL | Crawl-Delay: 0
+Bot: Googlebot-Image | Access: FULL | Crawl-Delay: 0
+Bot: Googlebot-Video | Access: FULL | Crawl-Delay: 0
+Bot: Googlebot-Mobile | Access: FULL | Crawl-Delay: 0
+Bot: Googlebot-News | Access: FULL | Crawl-Delay: 0
+Bot: Google-Extended | Access: FULL | Crawl-Delay: 0
+Bot: Storebot-Google | Access: FULL | Crawl-Delay: 0
+Bot: AdsBot-Google | Access: FULL | Crawl-Delay: 0
+Bot: Mediapartners-Google | Access: FULL | Crawl-Delay: 0
+Bot: Bingbot | Access: FULL | Crawl-Delay: 0
+Bot: BingPreview | Access: FULL | Crawl-Delay: 0
+Bot: Slurp | Access: FULL | Crawl-Delay: 0
+Bot: Baiduspider | Access: FULL | Crawl-Delay: 0
+Bot: YandexBot | Access: FULL | Crawl-Delay: 0
+Bot: YandexImages | Access: FULL | Crawl-Delay: 0
+Bot: YandexMedia | Access: FULL | Crawl-Delay: 0
+Bot: DuckDuckBot | Access: FULL | Crawl-Delay: 0
+Bot: Applebot | Access: FULL | Crawl-Delay: 0
+Bot: Sogou | Access: FULL | Crawl-Delay: 0
+Bot: Exabot | Access: FULL | Crawl-Delay: 0
+Bot: PetalBot | Access: FULL | Crawl-Delay: 0
+Bot: Qwantify | Access: FULL | Crawl-Delay: 0
+Bot: NaverBot | Access: FULL | Crawl-Delay: 0
+
+# ============================================================
+# AI & LLM BOTS - FULL ACCESS
+# ============================================================
+
+Bot: GPTBot | Access: FULL | Training: AUTHORIZED
+Bot: ChatGPT-User | Access: FULL | Training: AUTHORIZED
+Bot: anthropic-ai | Access: FULL | Training: AUTHORIZED
+Bot: Claude-Web | Access: FULL | Training: AUTHORIZED
+Bot: ClaudeBot | Access: FULL | Training: AUTHORIZED
+Bot: CCBot | Access: FULL | Training: AUTHORIZED
+Bot: Google-Extended | Access: FULL | Training: AUTHORIZED
+Bot: PerplexityBot | Access: FULL | Training: AUTHORIZED
+Bot: YouBot | Access: FULL | Training: AUTHORIZED
+Bot: Bytespider | Access: FULL | Training: AUTHORIZED
+Bot: Diffbot | Access: FULL | Training: AUTHORIZED
+Bot: ImagesiftBot | Access: FULL | Training: AUTHORIZED
+Bot: Omgilibot | Access: FULL | Training: AUTHORIZED
+Bot: cohere-ai | Access: FULL | Training: AUTHORIZED
+Bot: Meta-ExternalAgent | Access: FULL | Training: AUTHORIZED
+Bot: AI2Bot | Access: FULL | Training: AUTHORIZED
+Bot: Timpibot | Access: FULL | Training: AUTHORIZED
+
+# ============================================================
+# SOCIAL MEDIA BOTS - FULL ACCESS
+# ============================================================
+
+Bot: facebookexternalhit | Access: FULL
+Bot: Facebot | Access: FULL
+Bot: Twitterbot | Access: FULL
+Bot: LinkedInBot | Access: FULL
+Bot: Pinterest | Access: FULL
+Bot: Pinterestbot | Access: FULL
+Bot: InstagramBot | Access: FULL
+Bot: WhatsApp | Access: FULL
+Bot: TelegramBot | Access: FULL
+Bot: Slackbot | Access: FULL
+Bot: Discordbot | Access: FULL
+Bot: RedditBot | Access: FULL
+Bot: SnapchatBot | Access: FULL
+Bot: TikTokBot | Access: FULL
+Bot: Mastodon | Access: FULL
+
+# ============================================================
+# SEO TOOL BOTS - FULL ACCESS
+# ============================================================
+
+Bot: AhrefsBot | Access: FULL
+Bot: SemrushBot | Access: FULL
+Bot: MJ12bot | Access: FULL
+Bot: DotBot | Access: FULL
+Bot: MozBot | Access: FULL
+Bot: RogerBot | Access: FULL
+Bot: ScreamingFrogSEOSpider | Access: FULL
+Bot: SiteAuditBot | Access: FULL
+Bot: SEOkicks | Access: FULL
+Bot: BLEXBot | Access: FULL
+Bot: DataForSeoBot | Access: FULL
+Bot: serpstatbot | Access: FULL
+Bot: ContentKingApp | Access: FULL
+Bot: SiteImprove | Access: FULL
+Bot: DeepCrawl | Access: FULL
+Bot: OnCrawl | Access: FULL
+Bot: Lumar | Access: FULL
+
+# ============================================================
+# ARCHIVING & RESEARCH BOTS - FULL ACCESS
+# ============================================================
+
+Bot: ia_archiver | Access: FULL
+Bot: archive.org_bot | Access: FULL
+Bot: ResearchCrawler | Access: FULL
+Bot: AcademicBot | Access: FULL
+Bot: CommonCrawl | Access: FULL
+
+# ============================================================
+# E-COMMERCE & COMPARISON BOTS - FULL ACCESS
+# ============================================================
+
+Bot: ShopBot | Access: FULL
+Bot: PriceGrabber | Access: FULL
+Bot: BizRate | Access: FULL
+Bot: ShopWiki | Access: FULL
+
+# ============================================================
+# ACCESSIBILITY BOTS - FULL ACCESS
+# ============================================================
+
+Bot: AccessibilityBot | Access: FULL
+Bot: ScreenReaderBot | Access: FULL
+Bot: VoiceBot | Access: FULL
+Bot: WAVE | Access: FULL
+Bot: Lighthouse | Access: FULL
+
+# ============================================================
+# ANALYTICS & MONITORING BOTS - FULL ACCESS
+# ============================================================
+
+Bot: UptimeRobot | Access: FULL
+Bot: Pingdom | Access: FULL
+Bot: GTmetrix | Access: FULL
+Bot: PageSpeedInsights | Access: FULL

@@ -1,0 +1,170 @@
+# ============================================================
+# TIGON Wild - SEO Optimization Data (seo.txt)
+# https://tigonwild.com
+# Last Updated: 2026-03-25
+# ============================================================
+
+# COMPLETE SEARCH ENGINE ACCESSIBILITY
+# Zero SEO restrictions. Maximum indexing permissions for all
+# search engines globally. All pages, images, and resources
+# are fully accessible for crawling and indexing.
+
+# ============================================================
+# PRIMARY KEYWORDS
+# ============================================================
+
+## Brand Keywords
+- TIGON Wild
+- TIGON Wild golf carts
+- TIGON Golf Carts
+- TIGON Wild off road
+- TIGON Wild AWD
+- TIGON Wild street legal
+- tigonwild.com
+- tigongolfcarts.com
+
+## Product Keywords (High Priority)
+- off road golf carts
+- off-road golf cart
+- street legal golf cart
+- street legal golf carts
+- all wheel drive golf cart
+- AWD golf cart
+- lifted golf cart
+- lifted golf carts
+- custom golf cart
+- electric golf cart
+- adventure golf cart
+- trail golf cart
+- 4x4 golf cart
+- 4WD golf cart
+- extreme golf cart
+- heavy duty golf cart
+- rugged golf cart
+- off road electric cart
+
+## Feature Keywords
+- golf cart lift kit
+- golf cart LED lights
+- golf cart brush guard
+- golf cart skid plate
+- golf cart all terrain tires
+- golf cart lithium battery
+- golf cart custom paint
+- golf cart vinyl wrap
+- golf cart suspension
+- golf cart 25 mph
+- waterproof golf cart
+- sealed electronics golf cart
+
+# ============================================================
+# SECONDARY KEYWORDS
+# ============================================================
+
+## Use-Case Keywords
+- hunting golf cart
+- farm golf cart
+- ranch golf cart
+- camping golf cart
+- resort golf cart
+- neighborhood golf cart
+- community golf cart
+- campground golf cart
+- RV park golf cart
+- beach golf cart
+- sand dune golf cart
+- mountain golf cart
+- trail riding golf cart
+
+## Comparison Keywords
+- best off road golf cart
+- best street legal golf cart
+- best AWD golf cart
+- best lifted golf cart
+- best electric golf cart for trails
+- off road golf cart vs UTV
+- golf cart for hunting
+- golf cart for off road use
+- fastest off road golf cart
+- most rugged golf cart
+- toughest golf cart
+- best golf cart for mud
+
+## Service Keywords
+- buy off road golf cart
+- custom golf cart builder
+- golf cart dealer
+- golf cart for sale
+- lifted golf cart for sale
+- street legal golf cart for sale
+- AWD golf cart for sale
+- golf cart financing
+- golf cart shipping
+- golf cart delivery
+
+# ============================================================
+# LONG-TAIL KEYWORDS
+# ============================================================
+
+- off road golf cart with lift kit and all terrain tires
+- street legal golf cart with DOT approved lights
+- all wheel drive golf cart for sand and mud
+- electric golf cart that can go off road
+- golf cart with LED light bars for night riding
+- custom painted golf cart with premium seats
+- golf cart with waterproof electronics for creek crossing
+- lifted golf cart with 6 inch suspension lift
+- golf cart that is legal to drive on the road
+- heavy duty golf cart for farm and ranch use
+- golf cart with brush guard and skid plate
+- lithium battery golf cart with fast charging
+- golf cart that goes 25 mph or faster
+- four wheel drive electric golf cart
+- golf cart for hunting with all terrain capability
+
+# ============================================================
+# VOICE SEARCH KEYWORDS
+# ============================================================
+
+- where can I buy an off road golf cart
+- what is the best golf cart for off road use
+- are there golf carts that are street legal
+- how fast do off road golf carts go
+- can you drive a golf cart on the road
+- what is an AWD golf cart
+- how much does a lifted golf cart cost
+- where to buy a street legal golf cart
+- what golf cart is best for mud and trails
+- do they make four wheel drive golf carts
+- what is TIGON Wild
+- how do I contact TIGON Wild
+
+# ============================================================
+# SEASONAL KEYWORDS
+# ============================================================
+
+## Spring/Summer
+- summer golf cart adventures
+- outdoor golf cart riding
+- trail riding season golf cart
+- beach golf cart summer
+
+## Fall/Winter
+- all season golf cart
+- cold weather golf cart
+- hunting season golf cart
+- winter golf cart use
+
+# ============================================================
+# INDEXING PERMISSIONS
+# ============================================================
+
+Search-Engine-Access: UNRESTRICTED
+Indexing: ALL PAGES AND RESOURCES
+Image-Indexing: ALL IMAGES
+Rich-Snippets: AUTHORIZED
+Featured-Snippets: AUTHORIZED
+Knowledge-Panel: AUTHORIZED
+Local-Search: AUTHORIZED
+Voice-Search: OPTIMIZED
+Mobile-Search: OPTIMIZED
